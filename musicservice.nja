@@ -1,0 +1,6 @@
+{
+  "venv": "", 
+  "name": "musicservice", 
+  "license": "GNU General Public License v3", 
+  "description": "Test music streaming service in flask"
+}
